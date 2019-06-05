@@ -35,3 +35,6 @@ medical informatics, audio, database mining, and other areas
 10. Large Scale Machine Learning
 11. Application Example: Photo OCR
 
+# Certificates
+* [Machine Learning Certificate](https://www.coursera.org/account/accomplishments/verify/6BELGGMSJLME)
+
